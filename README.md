@@ -1,4 +1,4 @@
-# Micropython_SX1278_LoRa
+# Micropython_SX1278_LoRa_ESP32
 Proyecto para enviar y recibir datos a través de una placa ESP32 y el modulo SX1278 LoRa gestionado con Micropython.
 
 ---
