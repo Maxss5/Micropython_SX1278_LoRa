@@ -36,6 +36,7 @@ Teniendo esto como base, se pueden modificar cada fichero para afinar el funcion
 
 ## Images
 
-![ESP32 Placa](https://github.com/Maxss5/Micropython_BME680_-_Oled/blob/develop/images/ESP32Board.png "Placa ESP32")
-![SSD1306 Oled Funcionando](https://github.com/Maxss5/Micropython_BME680_-_Oled/blob/develop/images/ssd1306_OLED.png "Oled SSD1306")
-![bme680 Sensor](https://github.com/Maxss5/Micropython_BME680_-_Oled/blob/develop/images/bme680Sensor.png "Sensor BME6806")
+![ESP32 Placa](https://github.com/Maxss5/Micropython_SX1278_LoRa/blob/develop/images/esp32-image.jpg "Placa ESP32")
+![ESP32 & LoRa Connected](https://github.com/Maxss5/Micropython_SX1278_LoRa/blob/develop/images/LoRa%20%26%20ESP32.jpg "ESP32 & LoRa Connected")
+![LoRa Front view](https://github.com/Maxss5/Micropython_SX1278_LoRa/blob/develop/images/LoRa_Module_front.jpg "LoRa Front view")
+![LoRa Rear view](https://github.com/Maxss5/Micropython_SX1278_LoRa/blob/develop/images/LoRa_Module_Rear.jpg "LoRa Rear view")
